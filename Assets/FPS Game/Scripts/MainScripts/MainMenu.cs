@@ -118,7 +118,6 @@ public class MainMenu : MonoBehaviour
 
     public void OpenMenu()
     {
-        print("menu");
         saveButton.GetComponent<Button>().interactable = IsPlayerInScene();
         backToGameButton.GetComponent<Button>().interactable = IsPlayerInScene();
 
