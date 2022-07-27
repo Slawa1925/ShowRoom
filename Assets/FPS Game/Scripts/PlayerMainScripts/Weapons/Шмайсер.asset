@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 858d88d20aa7e244fad7d9b5ab97fe13, type: 3}
+  m_Name: "\u0428\u043C\u0430\u0439\u0441\u0435\u0440"
+  m_EditorClassIdentifier: 
+  range: 200
+  ammoMax: 32
+  bulletVelocity: 125
+  bulletMass: 1
+  animationSpeed: 1.5
+  fireRate: 9
+  reloadRate: 1
+  damage: 10
+  bulletSpread: 0.9
+  ammoIndex: 10
+  shootAmimation:
+  - {fileID: 7400000, guid: 12e2d689e03a8ce44a40bbae8fb75126, type: 2}
+  noAmmoShootAmimation: {fileID: 7400000, guid: 12e2d689e03a8ce44a40bbae8fb75126, type: 2}
+  reloadAmimation:
+  - {fileID: 7400000, guid: 8bffefce778deb54787280c1bd6fca7c, type: 2}
+  startAmimation: {fileID: 7400000, guid: 79961efb3be833a4a98206d4d607b978, type: 2}
+  endAnimation: {fileID: 7400000, guid: de324d38bf48f824887dbe84c7479e13, type: 2}
+  shootAudio:
+  - {fileID: 8300000, guid: 5f705431597131f4e8b424a60c4ae65f, type: 3}
+  - {fileID: 8300000, guid: 6174455e362beca46a13d772b0aaccc0, type: 3}
+  - {fileID: 8300000, guid: 55cd8933eb1dba043921c2b8523c5dec, type: 3}
+  reloadAudio:
+  - {fileID: 8300000, guid: d8e1afdbbb28c48419a756d7c071f4fb, type: 3}
+  hitAudio:
+  - {fileID: 8300000, guid: b63d85ab2ddb04b43b9962a1ce338b3b, type: 3}
+  - {fileID: 8300000, guid: 202f1b7dc8b3e744c8d0069379475778, type: 3}
+  noAmmoAudio:
+  - {fileID: 8300000, guid: 36f1bd9f11a0bd549b69c8b098ba3ccd, type: 3}
+  Particles: {fileID: 0}
+  bulletHole: {fileID: 0}

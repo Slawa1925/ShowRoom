@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 301ab0ce19916a24f9f82ad41d55135a
+timeCreated: 1477232991
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Botle
+    100002: //RootNode
+    100004: Line002
+    100006: Botle 1
+    100008: Box001
+    100010: Cylinder001
+    100012: HealPack
+    100014: Mine
+    100016: Plane001
+    100018: Bone003
+    100020: Bone004
+    100022: Bone005
+    100024: Bone006
+    100026: Bone007
+    100028: Bone008
+    100030: Bone009
+    100032: Bone010
+    100034: Bone011
+    100036: Bone012
+    100038: Bone013
+    100040: Bone014
+    100042: Bone015
+    100044: Bone016
+    100046: Bone017
+    100048: Bone018
+    100050: Bone019
+    100052: Bone020
+    100054: Bone021
+    100056: Bone022
+    100058: Botle 2
+    100060: Box002
+    100062: Box003
+    100064: DynamoLight
+    100066: Flashlight
+    100068: GlassBotle
+    100070: GlassBotle001
+    100072: LeftArm
+    100074: Line003
+    100076: plechyo
+    100078: Predplechyae
+    100080: Bone023
+    100082: Bone024
+    100084: Bone025
+    100086: Bone026
+    100088: Bone027
+    100090: Bone028
+    100092: Bone029
+    100094: Bone030
+    100096: Bone031
+    100098: Bone032
+    100100: Bone033
+    100102: Bone034
+    100104: Bone035
+    100106: Bone036
+    100108: Bone037
+    100110: Bone038
+    100112: Bone039
+    100114: Bone040
+    100116: Bone041
+    100118: Bone042
+    100120: Bone043
+    100122: Bone044
+    100124: Box004
+    100126: RightArm
+    100128: Box005
+    100130: Circle002
+    100132: Crawbar
+    100134: Cylinder002
+    100136: Doritos
+    100138: Hammer
+    100140: HandmadeBomb
+    100142: KeyCard
+    100144: Cloth
+    100146: Crowbar
+    400000: Botle
+    400002: //RootNode
+    400004: Line002
+    400006: Botle 1
+    400008: Box001
+    400010: Cylinder001
+    400012: HealPack
+    400014: Mine
+    400016: Plane001
+    400018: Bone003
+    400020: Bone004
+    400022: Bone005
+    400024: Bone006
+    400026: Bone007
+    400028: Bone008
+    400030: Bone009
+    400032: Bone010
+    400034: Bone011
+    400036: Bone012
+    400038: Bone013
+    400040: Bone014
+    400042: Bone015
+    400044: Bone016
+    400046: Bone017
+    400048: Bone018
+    400050: Bone019
+    400052: Bone020
+    400054: Bone021
+    400056: Bone022
+    400058: Botle 2
+    400060: Box002
+    400062: Box003
+    400064: DynamoLight
+    400066: Flashlight
+    400068: GlassBotle
+    400070: GlassBotle001
+    400072: LeftArm
+    400074: Line003
+    400076: plechyo
+    400078: Predplechyae
+    400080: Bone023
+    400082: Bone024
+    400084: Bone025
+    400086: Bone026
+    400088: Bone027
+    400090: Bone028
+    400092: Bone029
+    400094: Bone030
+    400096: Bone031
+    400098: Bone032
+    400100: Bone033
+    400102: Bone034
+    400104: Bone035
+    400106: Bone036
+    400108: Bone037
+    400110: Bone038
+    400112: Bone039
+    400114: Bone040
+    400116: Bone041
+    400118: Bone042
+    400120: Bone043
+    400122: Bone044
+    400124: Box004
+    400126: RightArm
+    400128: Box005
+    400130: Circle002
+    400132: Crawbar
+    400134: Cylinder002
+    400136: Doritos
+    400138: Hammer
+    400140: HandmadeBomb
+    400142: KeyCard
+    400144: Cloth
+    400146: Crowbar
+    2300000: Botle
+    2300002: Line002
+    2300004: Botle 1
+    2300006: Box001
+    2300008: Cylinder001
+    2300010: HealPack
+    2300012: Mine
+    2300014: Plane001
+    2300016: Botle 2
+    2300018: Box002
+    2300020: Box003
+    2300022: Flashlight
+    2300024: GlassBotle
+    2300026: GlassBotle001
+    2300028: Line003
+    2300030: Circle002
+    2300032: Crawbar
+    2300034: Cylinder002
+    2300036: Doritos
+    2300038: Hammer
+    2300040: HandmadeBomb
+    2300042: KeyCard
+    2300044: Cloth
+    2300046: Crowbar
+    3300000: Botle
+    3300002: Line002
+    3300004: Botle 1
+    3300006: Box001
+    3300008: Cylinder001
+    3300010: HealPack
+    3300012: Mine
+    3300014: Plane001
+    3300016: Botle 2
+    3300018: Box002
+    3300020: Box003
+    3300022: Flashlight
+    3300024: GlassBotle
+    3300026: GlassBotle001
+    3300028: Line003
+    3300030: Circle002
+    3300032: Crawbar
+    3300034: Cylinder002
+    3300036: Doritos
+    3300038: Hammer
+    3300040: HandmadeBomb
+    3300042: KeyCard
+    3300044: Cloth
+    3300046: Crowbar
+    4300000: Line002
+    4300002: Botle
+    4300004: Box001
+    4300006: HealPack
+    4300008: Mine
+    4300010: Plane001
+    4300012: Cylinder001
+    4300014: GlassBotle001
+    4300016: GlassBotle
+    4300018: Flashlight
+    4300020: Line003
+    4300022: Box002
+    4300024: Box003
+    4300026: Box004
+    4300028: Box005
+    4300030: Crawbar
+    4300032: Hammer
+    4300034: HandmadeBomb
+    4300036: KeyCard
+    4300038: Cylinder002
+    4300040: Circle002
+    4300042: Doritos
+    4300044: Crowbar
+    4300046: Cloth
+    9500000: //RootNode
+    13700000: Box001
+    13700002: Box004
+    13700004: Box005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

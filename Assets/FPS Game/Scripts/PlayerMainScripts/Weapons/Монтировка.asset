@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7952a78efa392f48a4c5f2aabf07251, type: 3}
+  m_Name: "\u041C\u043E\u043D\u0442\u0438\u0440\u043E\u0432\u043A\u0430"
+  m_EditorClassIdentifier: 
+  range: 1
+  swingRate: 1
+  damage: 25
+  hitForce: 500
+  bulletSpread: 0
+  hitAnimation:
+  - {fileID: 7400000, guid: b7b30a1a46c98cb428175ba5f4968da0, type: 2}
+  - {fileID: 7400000, guid: 762c82ab15002a64cbadc9645ac2c06b, type: 2}
+  - {fileID: 7400000, guid: 4e726a2bf4f5b9d4a8cbc1d21bd55c51, type: 2}
+  missAnimation:
+  - {fileID: 7400000, guid: a767e21a5ba9e3c4cba2636cb68cf051, type: 2}
+  startAnimation: {fileID: 7400000, guid: 0538223d4d7100140870f070a97191c6, type: 2}
+  endAnimation: {fileID: 7400000, guid: 1fc16ad6b255d37448296162bf384e06, type: 2}
+  swingAudio:
+  - {fileID: 8300000, guid: b9c8059f213ca7041888460d28dff6fb, type: 3}
+  hitAudio:
+  - {fileID: 8300000, guid: 52b46a666046a034da38080cdbb61184, type: 3}
+  hitConcreteAudio: []
+  hitMetalAudio:
+  - {fileID: 8300000, guid: 2c7f786dd8c793749b6e59c1822daa1a, type: 3}
+  - {fileID: 8300000, guid: 866c57d58c17ae7468da4f1e9f7ceaae, type: 3}
+  hitEnemyAudio:
+  - {fileID: 8300000, guid: e4a3a4770056eea44a884e37870c0a80, type: 3}
+  - {fileID: 8300000, guid: e0071743082db8a4a9ed9432fba79e6c, type: 3}
+  - {fileID: 8300000, guid: 70230604638a3e742a00ff793d52633a, type: 3}
+  particles: {fileID: 0}

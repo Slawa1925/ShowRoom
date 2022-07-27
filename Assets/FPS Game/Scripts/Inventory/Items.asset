@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15528f06419f56e499516f9e03f894ef, type: 3}
+  m_Name: Items
+  m_EditorClassIdentifier: 
+  items:
+  - name: "\u0422\u043E\u043F\u043E\u0440"
+    itemIcon: {fileID: 21300000, guid: dcd3ed715d6f0274a877d06bcc4cbe6c, type: 3}
+  - name: "\u041C\u043E\u043B\u043E\u0442\u043E\u043A"
+    itemIcon: {fileID: 21300000, guid: c23286b9d1e6d284c9d55542b0d5b5a3, type: 3}
+  - name: "\u041C\u043E\u043D\u0442\u0438\u0440\u043E\u0432\u043A\u0430"
+    itemIcon: {fileID: 21300000, guid: b45c9b4363787ad4e8f25285f7b03cf4, type: 3}
+  - name: "\u0420\u0430\u0437\u0432\u043E\u0434\u043D\u043E\u0439 \u043A\u043B\u044E\u0447"
+    itemIcon: {fileID: 21300000, guid: cd7cc7674375a3a47bd5b4d4fff9d5ca, type: 3}
+  - name: "\u0424\u043E\u043D\u0430\u0440\u0438\u043A"
+    itemIcon: {fileID: 21300000, guid: 52d8ed80d2b827d448d13e1087498caa, type: 3}
+  - name: "\u0413\u043E\u043B\u043E\u0432\u043D\u043E\u0439 \u0444\u043E\u043D\u0430\u0440\u044C"
+    itemIcon: {fileID: 21300000, guid: fb3d601a457b31649a4ae87853d341a7, type: 3}
+  - name: "\u0412\u0430\u043B\u044C\u0442\u0435\u0440"
+    itemIcon: {fileID: 21300000, guid: 797eb2aeebcb137428a3e9cd7bc4cdc7, type: 3}
+  - name: "\u0428\u043C\u0430\u0439\u0441\u0435\u0440"
+    itemIcon: {fileID: 21300000, guid: 1c768bf7af8eae945bb3c98c1164a32f, type: 3}
+  - name: "\u0413\u0440\u0430\u043D\u0430\u0442\u0430"
+    itemIcon: {fileID: 21300000, guid: a885ff7639aac7d4a92ec6626f02fd25, type: 3}
+  - name: "\u041F\u0430\u0442\u0440\u043E\u043D\u044B \u0432\u0430\u043B\u044C\u0442\u0435\u0440"
+    itemIcon: {fileID: 21300000, guid: 188a4f5d7fc518c47a5c383efa49ef1c, type: 3}
+  - name: "\u041F\u0430\u0442\u0440\u043E\u043D\u044B \u0448\u043C\u0430\u0439\u0441\u0435\u0440"
+    itemIcon: {fileID: 21300000, guid: 8fa17eb3ef2d9c3438d63e508023fe30, type: 3}
+  - name: "\u0411\u0430\u0442\u0430\u0440\u0435\u0439\u043A\u0430"
+    itemIcon: {fileID: 21300000, guid: 32ec2b7f85303764f8cdfcb1ca3be21d, type: 3}
+  - name: "\u0410\u043F\u0442\u0435\u0447\u043A\u0430"
+    itemIcon: {fileID: 21300000, guid: dcf1adfdbacfc4945b0f2050276d5312, type: 3}
+  - name: "\u0413\u0440\u0438\u0431"
+    itemIcon: {fileID: 21300000, guid: bc72b9260b1c7e644a8487ab4a5df87b, type: 3}
+  - name: "\u041D\u0435\u043C\u0435\u0446\u043A\u0430\u044F \u0444\u043E\u0440\u043C\u0430"
+    itemIcon: {fileID: 21300000, guid: ba60df5dff917eb48865ea6faa76f61b, type: 3}
+  - name: "\u0423\u0434\u043E\u0441\u0442\u043E\u0432\u0435\u0440\u0435\u043D\u0438\u0435"
+    itemIcon: {fileID: 21300000, guid: 9b6f3ca5b132b5544a893af75be24876, type: 3}
+  - name: "\u041D\u0435\u043C\u0435\u0446\u043A\u0430\u044F \u043A\u043D\u0438\u0433\u0430"
+    itemIcon: {fileID: 21300000, guid: 684508758731f064ea48d99b158fe851, type: 3}
+  - name: "\u041A\u043B\u044E\u0447"
+    itemIcon: {fileID: 21300000, guid: 61b0b666359c3c04b9b95a91481646a9, type: 3}
+  - name: "\u041A\u043B\u044E\u0447-\u043A\u0430\u0440\u0442\u0430"
+    itemIcon: {fileID: 21300000, guid: 19e49ff7c4e5cae4da3922c6642cad6a, type: 3}
