@@ -22,6 +22,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: PlasticWhite
+    second: {fileID: 2100000, guid: 9d14530b68e99b644a96a1607dc13246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: WallGrey
     second: {fileID: 2100000, guid: c9a36ab0cee1ea8499139f13eea93086, type: 2}
   - first:
